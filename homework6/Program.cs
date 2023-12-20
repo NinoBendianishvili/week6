@@ -43,7 +43,6 @@ foreach (int k in dict.Keys)
 
 #region task3
 int[] arr4 = new int[20] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 };
-arr4.ToList().
 var val4 = Convert.ToInt32(Console.ReadLine());
 for (int i = 1; i <= val4; i++)
 {
